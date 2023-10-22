@@ -3,3 +3,6 @@
 
 # Ignore Rhistory files
 .Rhistory
+
+# Ignore RData files
+.RData
